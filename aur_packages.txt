@@ -1,0 +1,5 @@
+catppuccin-gtk-theme-mocha
+sddm-theme-catppuccin-git
+wlogout
+yay-bin
+yay-bin-debug
