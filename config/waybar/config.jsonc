@@ -65,7 +65,7 @@
         "format": "  {} ",
         "tooltip": true,
         "interval": 1800,
-        "exec": "curl -s 'wttr.in/Gomel?format=%t'", 
+        "exec": "curl -s 'wttr.in/Washington?format=%t'", 
         "return-type": ""
     },
     "network": {
